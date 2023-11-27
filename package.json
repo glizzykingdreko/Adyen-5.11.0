@@ -1,0 +1,26 @@
+{
+  "name": "adyen-5.11.0",
+  "version": "1.0.0",
+  "description": "The adyen-5.11.0 npm module enables encryption of sensitive card data using Adyen's v5.11.0 method with a NodeJS implementation.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glizzykingdreko/adyen-5.11.0.git"
+  },
+  "keywords": [
+    "adyen",
+    "encryption",
+    "card",
+    "payment",
+    "adyen-5.11.0",
+    "adyen 5.11.0"
+  ],  
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node tests/encryptCard.js"
+  },
+  "author": "glizzykingdreko <glizzykingdreko@protonmail.com>",
+  "license": "ISC"
+}
